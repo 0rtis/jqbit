@@ -6,7 +6,12 @@ This an implementation of quantum secure cryptographic scheme in pure Java:
 - WOTS+ as described in [RFC8391 -  XMSS: eXtended Merkle Signature Scheme](https://tools.ietf.org/html/rfc8391)
 - XMSS as described in [RFC8391 -  XMSS: eXtended Merkle Signature Scheme](https://tools.ietf.org/html/rfc8391) and modified for multi-thread tree
  computation and optional tree caching (speed up computation on large tree)
- 
+
+<br/>
+
+*You can support this project by donating to our crypto-currency wallet **0xA68fBfa3E0c86D1f3fF071853df6DAe8753095E2***
+
+
 ### Usage
 *Full examples can be found in the test directory*
 #### WOTS+ - Winternitz One-Time Signature Plus
