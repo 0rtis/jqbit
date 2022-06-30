@@ -3,6 +3,7 @@
 
 /bin
 /target
+/release.sh
 /*.sh
 /*.log
 /release.properties
