@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/0rtis/jqbit.svg?style=flat-square)](https://github.com/0rtis/jqbit/blob/master/LICENSE)
+[![Nexus repo](https://img.shields.io/nexus/r/io.ortis/jqbit?server=https%3A%2F%2Fs01.oss.sonatype.org%2F&style=flat-square)](https://s01.oss.sonatype.org/content/repositories/releases/io/ortis/jqbit)
 [![Follow @twitter handle](https://img.shields.io/twitter/follow/ortis95.svg?style=flat-square)](https://twitter.com/intent/follow?screen_name=ortis95)
 
 ## jqbit
