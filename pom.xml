@@ -4,7 +4,7 @@
 
     <groupId>io.ortis</groupId>
     <artifactId>jqbit</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <name>Jqbit</name>
     <description>Quantum secure cryptographic schemes in pure Java</description>
@@ -30,7 +30,7 @@
         <connection>scm:git:git://github.com/0rtis/jqbit.git</connection>
         <developerConnection>scm:git:git://github.com/0rtis/jqbit.git</developerConnection>
         <url>https://github.com/0rtis/jqbit</url>
-        <tag>jqbit-1.1</tag>
+        <tag>jqbit-1.2</tag>
     </scm>
 
     <distributionManagement>
