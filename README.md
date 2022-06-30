@@ -1,4 +1,5 @@
 [![GitHub license](https://img.shields.io/github/license/0rtis/jqbit.svg?style=flat-square)](https://github.com/0rtis/jqbit/blob/master/LICENSE)
+[![Follow @twitter handle](https://img.shields.io/twitter/follow/ortis95.svg?style=flat-square)](https://twitter.com/intent/follow?screen_name=ortis95)
 
 ## jqbit
 

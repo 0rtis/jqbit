@@ -118,7 +118,7 @@ public class XMSS
 
 	/**
 	 * XMSS Signature = wotsp index + r randomness + wotsp signature + authentication path
-	 * </p>
+	 * <br/>
 	 * <b>The XMSS private key index must be incremented after calling this method !</b>
 	 *
 	 * @param config:         XMSS parameters
